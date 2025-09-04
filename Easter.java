@@ -1,5 +1,5 @@
 //Derin Soysal 9/3/25
-
+//This program will calculate the date easter falls on for years 1583 or after
 
 
 //Java entry code
