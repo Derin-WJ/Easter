@@ -27,20 +27,20 @@ int n = (h + r - 7 * m + 114) / 31;
 int p = (h + r - 7 * m + 114) % 31;
 
 //checking my work to see if all variables are declared and counted properly
-System.out.println(a);
-System.out.println(b);
-System.out.println(c);
-System.out.println(d);
-System.out.println(e);
-System.out.println(f);
-System.out.println(g);
-System.out.println(h);
-System.out.println(i);
-System.out.println(k);
-System.out.println(r);
-System.out.println(m);
-System.out.println(n);
-System.out.println(p);
+System.out.println("a: )" +a);
+System.out.println("b: )" +b);
+System.out.println("c: )" +c);
+System.out.println("d: )" +d);
+System.out.println("e: )" +e);
+System.out.println("f: )" +f);
+System.out.println("g: )" +g);
+System.out.println("h: )" +h);
+System.out.println("i: )" +i);
+System.out.println("k: )" +k);
+System.out.println("r: )" +r);
+System.out.println("m: )" +m);
+System.out.println("n: )" +n);
+System.out.println("p: )" +p);
 
 //final code to print out the day of easter and on what year
 System.out.println("Easter in " + y + " falls on " + n + "/" + (p+1) + ".");
