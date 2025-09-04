@@ -7,6 +7,7 @@ public class Easter{
     public static void main(String[] args) {
         
 //declaration of the year we want to find easter in
+//The year must be 1583 or after
 int y = 2026;
 
 //operations to use to calculate easter date
